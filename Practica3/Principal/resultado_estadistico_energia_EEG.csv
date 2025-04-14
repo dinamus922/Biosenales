@@ -1,8 +1,9 @@
-canal,prueba,p_valor,normal,varianza_igual,significativo
-Canal 2,Mann-Whitney,2.1979770756853652e-09,True,False,True
-Canal 3,Mann-Whitney,2.1979770756853652e-09,True,False,True
-Canal 4,Mann-Whitney,2.1979770756853652e-09,True,False,True
-Canal 5,Mann-Whitney,2.1979770756853652e-09,True,False,True
-Canal 6,Mann-Whitney,2.1979770756853652e-09,True,False,True
-Canal 7,Mann-Whitney,2.1979770756853652e-09,True,False,True
-Canal 8,Mann-Whitney,2.1979770756853652e-09,True,False,True
+Canal,Prueba usada,p-valor,Normalidad Control (p),Normalidad Parkinson (p),Varianzas iguales (p),¿Diferencia significativa?
+Canal 1,Mann-Whitney U,0.4057,0.0063,0.0144,0.8848,No
+Canal 2,Mann-Whitney U,0.5705,0.004,0.0045,0.9591,No
+Canal 3,Mann-Whitney U,0.4604,0.0089,0.0009,0.9776,No
+Canal 4,Mann-Whitney U,0.2345,0.0002,0.0003,0.7593,No
+Canal 5,Mann-Whitney U,0.56,0.0008,0.0053,0.9046,No
+Canal 6,Mann-Whitney U,0.2801,0.0,0.0,0.472,No
+Canal 7,Mann-Whitney U,0.1183,0.0,0.0,0.6179,No
+Canal 8,Mann-Whitney U,0.1505,0.0,0.0,0.5941,No
